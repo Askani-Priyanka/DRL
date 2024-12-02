@@ -1,6 +1,6 @@
 # Run the app
-```
 clone the repo
+```
 cd app
 streamlit run app.py
 ```
