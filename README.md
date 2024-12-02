@@ -10,6 +10,6 @@ cd Model
 ```
 then refer DRL_Project_final_model.ipynb for details. It includes training of all the 3 architectures that we tried.
 
-# Demo:
+# Demo
 
 Youtube link - https://www.youtube.com/watch?v=-1YU0OJqRpU
